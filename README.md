@@ -1,4 +1,4 @@
-# Introduction to Python, NumPy, pandas, Data Cleaning, Machine Learning and NumbusML
+# Introduction to Python, NumPy, Pandas, Data Cleaning, Machine Learning and NumbusML
 ## Try with Azure Notebooks - free Jupyter based notebooks in the Azure cloud
 
 1. [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/evilches/Intro-to-Python-and-Machine-Learning/)
