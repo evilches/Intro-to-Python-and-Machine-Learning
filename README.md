@@ -2,7 +2,7 @@
 
 1. [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/evilches/Intro-to-Python-and-Machine-Learning/)
 [Import sample notebooks ](https://notebooks.azure.com/import/gh/evilches/Intro-to-Python-and-Machine-Learning/) into Azure Notebooks.
-1. Open the notebooks in order and learn the contents: 
+1. Open and learn the contents of the notebooks in the following order: 
     - 1_Intro to Python.ipynb
     - 2_Intro to numpy.ipynb
     - 3_Intro to pandas.ipynb
