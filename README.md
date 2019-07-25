@@ -13,4 +13,4 @@
     
     **Make sure the Azure Notebook kernel is set to `Python 3.6`** when you open a notebook.  
     
-    ![set kernel to Python 3.6](Part1/data/python36.png)
+    ![set kernel to Python 3.6](Graphics/python36.png)
