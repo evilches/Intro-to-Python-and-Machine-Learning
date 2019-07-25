@@ -13,7 +13,7 @@
     - 4_Intro to data cleaning.ipynb
     - 5_Intro to Machine Learning.ipynb
     - 6_From Scikit-Learn to NimbusML.ipynb
-    - 7_NimbusML LightGBM Regressor.ipynb
+    - 7_Regression Model with NimbusML.ipynb
     
     **Note: Make sure the Azure Notebook kernel is set to `Python 3.6`** when you open a notebook.  
     
