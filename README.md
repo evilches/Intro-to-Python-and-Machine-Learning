@@ -37,6 +37,6 @@ This course makes extensive use of Jupyter Notebooks hosted on Microsoft Azure. 
 
 Jupyter Notebooks are divided into cells. Each cell contains either text written in the Markdown markup language or a space in which to write and execute computer code. Because all the code resides inside code cells, you can run each code cell inline rather than using a separate Python interactive window.
 
-To run a code cell use `Shift-Enter` or press the **<img src="Graphics/run_cell.png" width="80" title="Run" alt="Run"/>** button in the toolbar at the top part of the page.
+To run a code cell use `Shift-Enter` or press the **<img src="Graphics/run_cell.png" width="40" title="Run" alt="Run"/>** button in the toolbar at the top part of the page.
 
 > **Note**: These notebooks are designed to have you run code cells one by one, and several code cells contain deliberate errors for demonstration purposes. As a result, if you use the **Cell** > **Run All** command, some code cells past the error won't be run. To resume running the code in each case, use **Cell** > **Run All Below** from the cell after the error.
