@@ -40,3 +40,10 @@ Jupyter Notebooks are divided into cells. Each cell contains either text written
 To run a code cell use `Shift-Enter` or press the **<img src="Graphics/run_cell.png" width="50" title="Run" alt="Run"/>** button in the toolbar at the top part of the page.
 
 > **Note**: These notebooks are designed to have you run code cells one by one, and several code cells contain deliberate errors for demonstration purposes. As a result, if you use the **Cell** > **Run All** command, some code cells past the error won't be run. To resume running the code in each case, use **Cell** > **Run All Below** from the cell after the error.
+
+### Resources
+- [Microsoft Azure Notebooks](https://notebooks.azure.com/)
+- [Python Programming Language](https://www.python.org/)
+- [Python Beguinners Guide/Tutorials](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+- [GitHub Introduction](https://guides.github.com/activities/hello-world/)
+
